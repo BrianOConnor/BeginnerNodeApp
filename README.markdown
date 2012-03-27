@@ -1,4 +1,4 @@
-#Node JS Tutorial: image uploading application
+#Node JS: image uploading
 
-This is a Node JS project for uploading images to server
-Source: [*The Node Beginner Book*](http://nodebeginner.org)
+This is from Node JS tutorial for uploading images to server
+[*The Node Beginner Book*](http://nodebeginner.org)
